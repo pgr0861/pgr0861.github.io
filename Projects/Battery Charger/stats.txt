@@ -1,0 +1,5 @@
+Triangles: 658
+
+Materials: 1
+
+Texture Size: 2048

@@ -1,0 +1,11 @@
+Kill House Modular Kit
+---
+I wanted to actually get something fun done, so I challenged myself to make a killhouse using only one trimsheet for the modular bits and one for the decal atlas!
+Rendered in Unity.
+HDRI and ground texture are from polyhaven! https://polyhaven.com
+---
+Blender, Substance Painter, Marmoset Toolbag, Unity
+---
+thumbnail url (gets injected into your landing page) 
+---
+kill-house.html

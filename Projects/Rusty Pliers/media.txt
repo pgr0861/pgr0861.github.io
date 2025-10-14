@@ -1,17 +1,8 @@
-.\Projects\Rusty Pliers\pg-maps.jpg
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects/Rusty Pliers/pg-maps.jpg
 Descriptions go under each image like this! png/jpeg/jpg/gif supported.
 
-https://example2.jpg
-Description for example2.jpg.
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Rusty Pliers\pg-render-007.jpg
+Descriptions go under each image like this! png/jpeg/jpg/gif supported.
 
-https://example3.gif
-These aren't real images but need replacing with your own.
-
-https://examplevideo.mp4
-MP4's are also supported but like with images should be hosted somewhere like dropbox.
-
-https://beforepic.png // https://afterpic.png
-You can create before and after slider by seperating two urls with ' // ' 
-
-https://sketchfabexample.com 
-you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Rusty Pliers\pg-render.jpg
+Descriptions go under each image like this! png/jpeg/jpg/gif supported.

@@ -1,0 +1,7 @@
+Materials: 1
+
+Texture Size: 2048
+
+Workflow: Practical FX to Digital
+
+Target Engine: Unity HDRP

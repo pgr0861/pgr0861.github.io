@@ -1,0 +1,9 @@
+Nikon MH-24 Battery Charger
+---
+I found my camera's battery charger and spontaneously decided to model it. Favourite part of this has to be the scratch marks where you pry off the adapater because damn why are they so hard to get off
+---
+Blender, Substance Painter, Marmoset Toolbag
+---
+thumbnail url (gets injected into your landing page) 
+---
+battery-charger.html

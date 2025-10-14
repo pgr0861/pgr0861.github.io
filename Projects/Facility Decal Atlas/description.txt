@@ -1,0 +1,10 @@
+Facility Decal Atlas
+---
+Similar to my Facility Concrete Trimsheet, this will be paired with the environment created from the trimsheet.
+The decal atlas adds subtle details to the walls, floors and ceilings around the level which give it slightly more life.
+---
+Blender, Substance Painter, Marmoset Toolbag
+---
+thumbnail url (gets injected into your landing page) 
+---
+facility-decals.html

@@ -1,0 +1,10 @@
+Heavy Containment Zone
+---
+In 2024, I have been working with Northwood Studios to create an art and gameplay overhaul to the Heavy Containment Zone of SCP: Secret Laboratory, the game's most dangerous area. I was primarily responsible for most texture work, room art passes, and implementation during the later stages of development. The HCZ (Heavy Containment Zone) consists of 27 unique rooms (most of which are based on existing rooms, with some new additions from our level designers), which form together to create a procedurally generated layout, fitting together like puzzle pieces, creating a dynamic and unique environment for the players to experience.
+The zone, and the rest of the game, are created within HDRP Unity. All images are taken in-game.
+---
+Blender, Substance Painter, Marmoset Toolbag, Unity
+---
+thumbnail url (gets injected into your landing page) 
+---
+hcz.html

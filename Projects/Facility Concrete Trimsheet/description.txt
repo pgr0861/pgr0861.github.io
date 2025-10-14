@@ -1,0 +1,9 @@
+Concrete Trimsheet
+---
+This is a trimsheet for a somewhat abandoned facility deep underground, the aesthetic was for a very concretey mess of hallways. It's actually a bit of a hybrid sheet as it contains some decal elements to it in the form of the holes and the deterioration strip near the top.
+---
+Blender, Substance Painter, Marmoset Toolbag
+---
+thumbnail url (gets injected into your landing page) 
+---
+conc-sheet.html

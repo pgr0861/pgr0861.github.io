@@ -1,0 +1,9 @@
+Cardboard Box and Crates Trimsheet
+---
+Hybrid Trimsheet created for making carboard boxes and crate assets.
+---
+Blender, Substance Painter, Marmoset Toolbag
+---
+thumbnail url (gets injected into your landing page) 
+---
+cardboard-sheet.html
