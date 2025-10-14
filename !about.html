@@ -25,27 +25,27 @@
   </head>
   <body>
     <div class="top-container">
-      <!-- Placeholder div where user information will dynamically be added -->
       <div class="user-info-panel">
-        <!-- User information will be injected here by JS -->
         <div class="navigation-buttons">
           <a href="index.html" class="nav-button">Portfolio</a>
           <a href="about.html" class="nav-button">About</a>
         </div>
       </div>
     </div>
+
+    <!--
     <div class="bottom-container">
       <div class="horizontal-container">
         <h1 class="panel-title">Summary</h1>
         <div class="summary-panel">
-          <p><!-- Summary will be dynamically inserted here --></p>
+          <p></p>
         </div>
         <hr />
         &nbsp; &nbsp; &nbsp;
-        <h1 class="panel-title">Recommendations</h1>
+       <h1 class="panel-title">Recommendations</h1>
         <div class="recommendations-panel">
           <div class="recommendation-content">
-            <!-- Recommendations get inserted here -->
+            Recommendations get inserted here 
             <div class="recommendation-dots" id="recommendation-dots"></div>
           </div>
         </div>
@@ -54,13 +54,11 @@
         <h1 class="panel-title">Software Knowledge</h1>
         <div class="skills-panel">
           <div class="software-tag-container">
-            <!-- Software tags will be dynamically inserted here -->
           </div>
 
           &nbsp; &nbsp; &nbsp;
           <h1 class="panel-title">Skills</h1>
           <div class="software-tag-container">
-            <!-- Skills tags will be dynamically inserted here -->
           </div>
         </div>
         <hr />
@@ -70,7 +68,6 @@
     <div class="productions-panel">
       <div class="productions-subpanels">
         <h1 class="panel-title">Productions & Experience</h1>
-        <!-- Production cards will be added here -->
       </div>
     </div>
     <script src="../JS/summary.js"></script>
@@ -79,7 +76,6 @@
     <script src="../JS/recommendations.js"></script>
     <script src="../JS/productions.js"></script>
     <script>
-      // JavaScript to add 'active' class to the current page's navigation button
       document.addEventListener("DOMContentLoaded", function () {
         const currentPath = window.location.pathname.split("/").pop();
         const navButtons = document.querySelectorAll(".nav-button");
@@ -90,5 +86,5 @@
         });
       });
     </script>
-  </body>
+  </body> 
 </html>
