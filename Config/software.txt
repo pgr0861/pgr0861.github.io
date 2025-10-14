@@ -1,10 +1,8 @@
 Blender
-3ds Max
 Unity
-Zbrush
 Adobe Photoshop
-Topogun
-Substance 3d Painter
-Marvelous Designer
-Maya
+Adobe Illustrator
+Adobe After Effects
+Substance 3D Painter
+Substance 3D Designer
 Marmoset Toolbag
