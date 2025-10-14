@@ -4,6 +4,6 @@ I found my camera's battery charger and spontaneously decided to model it. Favou
 ---
 Blender, Substance Painter, Marmoset Toolbag
 ---
-thumbnail url (gets injected into your landing page) 
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\THUMBNAILS\pgr-pgr-tbrender-viewport.jpg
 ---
 battery-charger.html

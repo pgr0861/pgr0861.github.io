@@ -4,6 +4,6 @@ Hybrid Trimsheet created for making carboard boxes and crate assets.
 ---
 Blender, Substance Painter, Marmoset Toolbag
 ---
-thumbnail url (gets injected into your landing page) 
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\THUMBNAILS\pgr-pgr-thumb-005.jpg
 ---
 cardboard-sheet.html

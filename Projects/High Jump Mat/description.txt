@@ -4,6 +4,6 @@ I did high jump when I was younger, I wasn't that bad at it, decided to make thi
 ---
 Blender, Substance Painter, Marmoset Toolbag
 ---
-thumbnail url (gets injected into your landing page) 
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\THUMBNAILS\pgr-pgr-thumb.jpg
 ---
 high-jump.html

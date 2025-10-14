@@ -6,6 +6,6 @@ HDRI and ground texture are from polyhaven! https://polyhaven.com
 ---
 Blender, Substance Painter, Marmoset Toolbag, Unity
 ---
-thumbnail url (gets injected into your landing page) 
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\THUMBNAILS\pgr-pgr-image-2024-01-09-231427195.jpg
 ---
 kill-house.html

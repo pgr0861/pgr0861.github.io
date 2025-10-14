@@ -4,6 +4,6 @@ Contract Work, just a few blood decals to be placed around for specific location
 ---
 Wood and Paint? I Guess?, Substance Painter, Marmoset Toolbag
 ---
-thumbnail url (gets injected into your landing page) 
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\THUMBNAILS\pgr-pgr-render-003.jpg
 ---
 blood-atlas.html
