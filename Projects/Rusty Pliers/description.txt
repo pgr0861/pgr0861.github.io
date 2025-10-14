@@ -1,0 +1,9 @@
+Rusty Pliers
+---
+A piece done in my personal time.
+---
+Blender, Substance Painter, Marmoset Toolbag
+---
+thumbnail url (gets injected into your landing page) 
+---
+rusty-pliers.html
