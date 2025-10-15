@@ -1,1 +1,3 @@
 Artist based in Australia. Worked primarily on FPS titles and games with realistic artstyles.
+
+This portfolio template was made by Art of Pilgrim, which he has generously made free to use for anyone, you can get the template here: https://github.com/artofpilgrim/portfolio-template
