@@ -31,6 +31,15 @@ function addUserInformation() {
             img.alt = "Profile Picture";
             img.className = "profile-pic";
             userInfoPanel.appendChild(img);
+            
+            // When the image is clicked, go to together.html
+img.addEventListener("click", () => {
+    window.location.href = "together.html";
+});
+
+// Append the image to the panel
+userInfoPanel.appendChild(img);
+            
 
             // Create and append the user name as a link
             const userNameLink = document.createElement("a");
