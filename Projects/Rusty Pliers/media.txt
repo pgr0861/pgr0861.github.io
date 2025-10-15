@@ -1,8 +1,8 @@
 https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects/Rusty Pliers/pg-maps.jpg
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+Maps
 
 https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Rusty Pliers\pg-render-007.jpg
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+
 
 https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Rusty Pliers\pg-render.jpg
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+Wire

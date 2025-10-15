@@ -1,11 +1,11 @@
 https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Cardboard Box and Crates Trimsheet\pgr-labels.jpg
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+Sheet Layout
 
 https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Cardboard Box and Crates Trimsheet\pgr-maps.jpg
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+Maps
 
 https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Cardboard Box and Crates Trimsheet\pgr-thumb-010.jpg
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+
 
 https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Cardboard Box and Crates Trimsheet\pgr-thumb-014.jpg
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+A selection of example assets made using the sheet

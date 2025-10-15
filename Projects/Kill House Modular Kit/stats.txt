@@ -1,5 +1,5 @@
-Materials: 1
+Materials: 2
 
-Texture Size: 4096
+Texture Size: 1x4096 1x2048
 
 Target Engine: Unity HDRP
