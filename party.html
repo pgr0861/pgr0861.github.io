@@ -27,19 +27,31 @@
       height: auto;
     }
     audio {
-      width: 360px;
-      outline: none;
+      display: none; /* hide the player */
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <img src="https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Resources\bin\together.gif" alt="Centered GIF">
+    <img src="https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Resources/bin/together.gif" alt="Centered GIF">
     
-    <audio controls preload="none">
-      <source src="https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Resources\bin\f2f.mp3" type="audio/mpeg">
+    <audio autoplay loop>
+      <source src="https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Resources/bin/f2f.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
+
+  <script>
+    // Some browsers block autoplay until user interacts, so we ensure it plays when possible
+    window.addEventListener('load', function() {
+      const audio = document.querySelector('audio');
+      const playPromise = audio.play();
+      if (playPromise !== undefined) {
+        playPromise.catch(() => {
+          document.body.addEventListener('click', () => audio.play(), { once: true });
+        });
+      }
+    });
+  </script>
 </body>
 </html>
