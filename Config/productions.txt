@@ -2,26 +2,20 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+3D Environment Artist
+Radian Simulations
+January 2025 - Present
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\ProdImages\ghpc.png
+Creating realistic environments and props for Gunner, Heat, PC! A simulation game about modern mounted combat, with attention to authenticity and fun.
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+Art Supervisor
+Northwood Studios
+January 2024 - August 2025
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\ProdImages\scpsl.png
+Worked initially as an 3D Environment Artist for SCP: Secret Laboratory, helping ship the 14.0 Heavy Duty update, then promoted to Art Supervisor, where I supervised the art team for the 14.1 update. I primarily focused on creating trim and decal sheets while doing art passes for rooms and helping implement assets and environments into the engine.
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
----
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+3D Artist
+Miscellaneous Projects
+2018 - Present
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\ProdImages\unknown.png
+I've worked on a lot of small projects throughout my time doing game development, from well before I was anywhere near the industry, primarily small indie games, on which I would always be a 3D or Texture Artist.
