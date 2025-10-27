@@ -45,7 +45,7 @@
     // Some browsers block autoplay until user interacts, so we ensure it plays when possible
     window.addEventListener('load', function() {
       const audio = document.querySelector('audio');
-      audio.volume = 0.4;
+      audio.volume = 0.2;
       
       const playPromise = audio.play();
       if (playPromise !== undefined) {
