@@ -4,7 +4,7 @@
 ---
 3D Environment Artist
 Radian Simulations
-January 2025 - Present
+January 2025 - December 2025
 https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\ProdImages\ghpc.png
 Creating realistic environments and props for Gunner, Heat, PC! A simulation game about modern mounted combat, with attention to authenticity and fun.
 ---
