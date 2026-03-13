@@ -7,5 +7,5 @@ Front
 https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Hensoldt Binoculars\tbrender_Albedo.png
 Albedo
 
-https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Hensoldt Binoculars\tbrender_Wireframe.png
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Hensoldt Binoculars\tbrender_Wireframe_001.png
 Wireframe
