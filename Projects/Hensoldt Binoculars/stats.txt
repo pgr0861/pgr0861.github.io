@@ -1,0 +1,5 @@
+Triangles: 8402
+
+Materials: 1
+
+Texture Size: 4096

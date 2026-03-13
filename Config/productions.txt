@@ -20,6 +20,12 @@ January 2024 - August 2025
 https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\ProdImages\scpsl.png
 Worked initially as an 3D Environment Artist for SCP: Secret Laboratory, helping ship the 14.0 Heavy Duty update, then promoted to Art Supervisor, where I supervised the art team for the 14.1 update. I primarily focused on creating trim and decal sheets while doing art passes for rooms and helping implement assets and environments into the engine.
 ---
+Texture Artist
+Third Subdivision Studios
+June 2018 - March 2022
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\ProdImages\scpcb.png
+Additional graphics for SCP: Containment Breach and SCP: Nine Tailed Fox Mod
+---
 3D Artist
 Miscellaneous Projects
 2018 - Present

@@ -1,0 +1,9 @@
+Hensoldt 8x30 Binoculars
+---
+Hensoldt 8x30 Binoculars created for first person animations. (Gunner, Heat, PC!)
+---
+Blender, Substance Painter, Marmoset Toolbag
+---
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\THUMBNAILS\binos.png
+---
+hensoldt-bino.html
