@@ -1,4 +1,11 @@
-https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Hensoldt Binoculars\pgr-tbrender-viewport-001.jpg
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Hensoldt Binoculars\tbrender_007.png
+Back
 
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Hensoldt Binoculars\tbrender_008.png
+Front
 
-https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Hensoldt Binoculars\pgr-tbrender-viewport-002.jpg
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Hensoldt Binoculars\tbrender_Albedo.png
+Albedo
+
+https://raw.githubusercontent.com/pgr0861/pgr0861.github.io/refs/heads/main/Projects\Hensoldt Binoculars\tbrender_Wireframe.png
+Wireframe
